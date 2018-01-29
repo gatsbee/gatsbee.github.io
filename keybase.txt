@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/gatsbee
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gatsbee.github.io
+  * I am gatsbee (https://keybase.io/gatsbee) on keybase.
+  * I have a public key with fingerprint CCB8 1534 443D DCAF A8D3  3850 4370 5C74 B968 E9A5
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c2637172d7b974f8b24aeda5ebdaabacca46eabd811dc208bb7f4dfdcb567c290a",
+      "fingerprint": "ccb81534443ddcafa8d3385043705c74b968e9a5",
+      "host": "keybase.io",
+      "key_id": "43705c74b968e9a5",
+      "kid": "01011455afb377ffc776c3b7ea5f5019dc0452a6c2a228882272646560c7cbb965070a",
+      "uid": "0a3ea5ecef08d1eb90428ecc88ce0619",
+      "username": "gatsbee"
+    },
+    "service": {
+      "hostname": "gatsbee.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1517269091,
+  "expire_in": 157680000,
+  "prev": "287be819344af4389df754af1d68bd62ef6b3e6b4edc7291ab481aeaf18c42fc",
+  "seqno": 12,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtUn1MlVUcvnwGKAE2kJYf8JI5E9j7/XEHNsWNjIUouUjQ2znnPe+9rxfuvdx7
+uYBg4KAVCk1GkpMF0pCEMaEYCaNbSiXE1x8kCIwVJSZmTNJNVCp7L8YfbZ1/zjm/
+8zzPeX4fp4J9dAFeSbYsZ4/p9nmvodtQd9DakVtEQKtcSOiLCDNe2XC2jB1Og1mV
+CT1BUjSJaJ4RKIGWBSgJrCJCmgVYBhyGMgAQIARYHgMoixQlI5oUIRQUVlZkBDle
+QLREAiKWUFSLEdttdtXi1GQRgiLFMSzLMrKMgAJEmWFEjmQZgeSQwEKJF7EEOI1o
+sjo8DM0cBA4cr1q1mHYxrNj7H/yqb5KiWI4DCmQEQVGQIPCIgQIGnMKRlCQjkuVo
+wCMa0LQoijQt0DzLczyJBAQ1OY4UVnznPZUDjMbECCukKFMYSiRLixghUUSY5CnJ
+A3RguwXkYA1tBE4HxJg4FktoQZeKsKeunkT+C4g3qk5THnyak81udVqRNVt7Njmd
+NofeQ3cW2jz4fAwN/yoZoGqRtVpqDBe2O1SrhdBTGhI5VY80xWmN4iVSomIJXGBT
+7digehCcwIuktjz/YJcmSYvCIYhFStKaABSWESVZETjtSMm8CGWexgoPGcxDFstI
+oCUKQFakANYAImJpBRGe5HItVk2c1owCoybqUI0W4Myza6kHVXgzvjqvAN3GiGjf
+4e5wdnfiTPuFH8S01QH08/ZMny4oMHQ1UlUU8nfieOxvPp8yZ1L+Gi2rCglMCNw/
+8qDOpD/Rd2UxYxJ9PT0+Mj8Tfu7OV0UdQw5wKfrBVAK32/WlpSrNntYw21ydEl/P
+N/UsNequvrV8YPb1TQlRlZ11YM+e6bq85P3pYQ0vHPCXKjvaaioGd/Ru7osKmWxK
+2Xt1ONx9Al3wzQmoLc5vKJ5bvhiDknIyByPf2/jty9vrO98Y2dWaIY3N/n5pPvXX
+kJ0nqYatwQWP75dv6ysjq4c2NLpfSnedeu2j+e4zMQbv1H4lPzzsVn8XFX4z6Znv
+Ytof5Q6scz+c7h+QE67nL3m9m+xeKvNOz7h2/WD5Euq+0Xw4bl/JN4Pz2VHvv7PZ
+a9vntTE15NGsmMv6G6dDB6+NDm/PXp4oufU4/vuLtcnrP4yLDuodcBcvPmt0ezPR
+nUdiK9Z2CWsTGv/oi1r/fFZ576vpwuJUqumDsAldi14XuqPl4YvPrTMTLfruydLa
+e4oSYYjYWT8zNp68r3z+7J9vqt1353et2XLPv/KVK4ly5k9JupmbpXEQnCw4zCz4
+d1UWHl9z/IuIzPa286ObMt/+xL/FONBqi6y5POV3LnRO3zMVZv0Fh+YEdCpNPxee
+9Wk6NkeYi/aWoqmPlYqtbY9mP5u4Y0bNh8z6u3ljM/eH3UeDf8w3HCHTt9ALptP+
+rgJHeSvyM0QulFRveEInNct+TwYq/wE=
+=ZaZL
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gatsbee
+
+==================================================================
+

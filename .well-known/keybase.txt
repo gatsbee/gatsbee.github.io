@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/gatsbee
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://gatsbee.github.io
+  * I am gatsbee (https://keybase.io/gatsbee) on keybase.
+  * I have a public key ASDCY3Fy17l0-LJK7aXr2qusykbqvYEdwgi7f039y1Z8KQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c2637172d7b974f8b24aeda5ebdaabacca46eabd811dc208bb7f4dfdcb567c290a",
+      "host": "keybase.io",
+      "kid": "0120c2637172d7b974f8b24aeda5ebdaabacca46eabd811dc208bb7f4dfdcb567c290a",
+      "uid": "0a3ea5ecef08d1eb90428ecc88ce0619",
+      "username": "gatsbee"
+    },
+    "merkle_root": {
+      "ctime": 1517268066,
+      "hash": "2f10a1ea5db69706fc3f97325dc9bdfcdb1df6232b184498614b28f7c046a2d91a125d004e693e3894969f6174912898c811529ee56dbc74c3ed8e88a1b8191d",
+      "hash_meta": "77baaf495146a03d08961c56985a1d5603759a31ee4643d5c3a4225b605d4738",
+      "seqno": 2002394
+    },
+    "service": {
+      "hostname": "gatsbee.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.40"
+  },
+  "ctime": 1517268080,
+  "expire_in": 504576000,
+  "prev": "4d3dbf0b81717e3637eb02e5b98c037fa58bfc5534f1d32c42af005514b220f5",
+  "seqno": 10,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgwmNxcte5dPiySu2l69qrrMpG6r2BHcIIu39N/ctWfCkKp3BheWxvYWTFA0l7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYzI2MzcxNzJkN2I5NzRmOGIyNGFlZGE1ZWJkYWFiYWNjYTQ2ZWFiZDgxMWRjMjA4YmI3ZjRkZmRjYjU2N2MyOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzI2MzcxNzJkN2I5NzRmOGIyNGFlZGE1ZWJkYWFiYWNjYTQ2ZWFiZDgxMWRjMjA4YmI3ZjRkZmRjYjU2N2MyOTBhIiwidWlkIjoiMGEzZWE1ZWNlZjA4ZDFlYjkwNDI4ZWNjODhjZTA2MTkiLCJ1c2VybmFtZSI6ImdhdHNiZWUifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MTcyNjgwNjYsImhhc2giOiIyZjEwYTFlYTVkYjY5NzA2ZmMzZjk3MzI1ZGM5YmRmY2RiMWRmNjIzMmIxODQ0OTg2MTRiMjhmN2MwNDZhMmQ5MWExMjVkMDA0ZTY5M2UzODk0OTY5ZjYxNzQ5MTI4OThjODExNTI5ZWU1NmRiYzc0YzNlZDhlODhhMWI4MTkxZCIsImhhc2hfbWV0YSI6Ijc3YmFhZjQ5NTE0NmEwM2QwODk2MWM1Njk4NWExZDU2MDM3NTlhMzFlZTQ2NDNkNWMzYTQyMjViNjA1ZDQ3MzgiLCJzZXFubyI6MjAwMjM5NH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJnYXRzYmVlLmdpdGh1Yi5pbyIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQwIn0sImN0aW1lIjoxNTE3MjY4MDgwLCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjRkM2RiZjBiODE3MTdlMzYzN2ViMDJlNWI5OGMwMzdmYTU4YmZjNTUzNGYxZDMyYzQyYWYwMDU1MTRiMjIwZjUiLCJzZXFubyI6MTAsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RArilWEB40Q75JHopD4WQ1GYNdxwaR6CaxgJoniiVaKmOyBvgYX3yg0MkLnq1Y2M/cESTuOwla+L+uGIYcCvlzA6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMbCqr+ehBfqX8PNjxq7ZjcexyMugTSqmMvAqQFL2zzMo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gatsbee
+
+==================================================================
+
